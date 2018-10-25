@@ -1,0 +1,14 @@
+D:\source\RestServiceTest\RestServiceTest\bin\Debug\netcoreapp2.1\RestServiceTest.deps.json
+D:\source\RestServiceTest\RestServiceTest\bin\Debug\netcoreapp2.1\RestServiceTest.runtimeconfig.json
+D:\source\RestServiceTest\RestServiceTest\bin\Debug\netcoreapp2.1\RestServiceTest.runtimeconfig.dev.json
+D:\source\RestServiceTest\RestServiceTest\bin\Debug\netcoreapp2.1\RestServiceTest.dll
+D:\source\RestServiceTest\RestServiceTest\bin\Debug\netcoreapp2.1\RestServiceTest.pdb
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.csproj.CoreCompileInputs.cache
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.RazorAssemblyInfo.cache
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.RazorAssemblyInfo.cs
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.AssemblyInfoInputs.cache
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.AssemblyInfo.cs
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.RazorTargetAssemblyInfo.cache
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.dll
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.pdb
+D:\source\RestServiceTest\RestServiceTest\obj\Debug\netcoreapp2.1\RestServiceTest.csprojAssemblyReference.cache
